@@ -4,8 +4,8 @@ This is a simple React application that allows you to shuffle a deck of cards, d
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/card-deck-application.git`
-2. Navigate to the project directory: `cd card-deck-application`
+1. Clone the repository: `git clone https://github.com/spatro703/deck-cards.git`
+2. Navigate to the project directory: `cd deck-cards`
 3. Install the dependencies: `npm install`
 
 ## Usage
